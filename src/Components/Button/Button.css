@@ -1,0 +1,14 @@
+.recommend-btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: #e5e7eb;
+  background-color: var(--accent-color);
+  border-radius: 5px;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
+.recommend-btn:hover {
+  background-color: var(--hover-color);
+}
